@@ -1,7 +1,3 @@
-#Ergasia 1 - OSU
-#Sotiriou Konstantinos - p3220289
-
-
         .text
         .globl __start
 
